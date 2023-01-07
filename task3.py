@@ -6,7 +6,7 @@
 '''
 
 
-class Bag:
+class Bag1:
     def __init__(self, *args):
         self.my_list = []
 
@@ -27,6 +27,6 @@ class Bag:
                 else:
                     return f'Вы вышли'
 
-try_except = Bag(1)
+try_except = Bag1(1)
 print(try_except.my_input())
 
