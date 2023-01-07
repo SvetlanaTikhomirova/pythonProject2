@@ -22,5 +22,5 @@ div = DivNaNull(10, 100)
 print(div.div_na_null(80, 0))
 print(DivNaNull.div_na_null(2, 0))
 print(DivNaNull.div_na_null(35, 0.1))
-
+print(DivNaNull.div_na_null(35, 0.1))
 
